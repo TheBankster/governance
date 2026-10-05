@@ -180,6 +180,9 @@ Every SHOULD recommendation is explained separately in the "SHOULD vs. MUST Clar
 Confidential inference is achieved when plaintext Model Assets and Data Assets exist only inside an attested confidentiality boundary, and keys that unwrap those assets are released only when policy is satisfied.
 Each numbered solution below resolves the correspondingly numbered force.
 
+![Trust domains, attestation and policy-controlled key release](./images/confidential_inferencing_a.svg)
+![Request path, default-deny egress, persistence and evidence](./images/confidential_inferencing_b.svg)
+
 1. **Establish a measured confidentiality boundary and encrypt all of its I/O (resolves Force 1)**
 
    1. The AI inference runtime — comprising the CPU TEE, any accelerator TEEs, the measured model image, the measured policy bundle and in-boundary execution state — **MUST** be the only place where plaintext model and in-use data exist.
