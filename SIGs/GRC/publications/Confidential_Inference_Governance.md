@@ -372,7 +372,7 @@ What is not permitted is placing plaintext assets on an unattested device withou
 10. Using Attestation in Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS): [https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
 11. NIST SP 800-57, Part 1, Section 5.3 "Cryptoperiods": [https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final](https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final)
 12. NIST SP 800-57, Part 1, Section 8.3.5 "Revocation": [https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final](https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final)
-13. Confidential Workload Upgrade Governance Pattern: [https://github.com/confidential-computing/governance/blob/main/SIGs/GRC/publications/Confidential_Workload_Upgrade_Governance.md](https://github.com/confidential-computing/governance/blob/main/SIGs/GRC/publications/Confidential_Workload_Upgrade_Governance.md)
+13. Confidential Workload Upgrade Governance Pattern: [./Confidential_Workload_Upgrade_Governance.md](./Confidential_Workload_Upgrade_Governance.md)
 14. Remote Attestation Procedures (RATS) Architecture RFC: [https://datatracker.ietf.org/doc/rfc9334/](https://datatracker.ietf.org/doc/rfc9334/)
 15. "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks", 2021: [https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401)
 16. Confidential Computing Glossary: [https://github.com/confidential-computing/glossary/](https://github.com/confidential-computing/glossary/issues/2)
